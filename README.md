@@ -5,3 +5,7 @@ This was an attempt to emulate an existing landing page. In my experience, the f
 
 Link: https://medium.com/
 
+<img src='imgREADME/img-web1.jpeg'>
+<img src='imgREADME/img-web2.jpeg'>
+<img src='imgREADME/img-web3.jpeg'>
+<img src='imgREADME/img-web4.jpeg'>
